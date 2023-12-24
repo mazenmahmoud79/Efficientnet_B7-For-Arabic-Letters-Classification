@@ -1,12 +1,10 @@
 # Arabic Letters Classification using EfficientNet_B7
 
-This repository contains code for training an Arabic letters classification model using the EfficientNet_B7 architecture. The model achieves an impressive test accuracy of 97.04%. The dataset used for training is the [Final Arabic Alpha dataset](link-to-dataset), and the code is implemented in PyTorch.
+This repository contains code for training an Arabic letters classification model using the EfficientNet_B7 architecture. The model achieves an impressive test accuracy of 97.04%. The dataset used for training is the [Final Arabic Alpha dataset](https://www.kaggle.com/competitions/arabic-letters-classification/data), and the code is implemented in PyTorch.
 
 ## Dataset
 
 The dataset consists of Arabic letters organized into folders, with each folder representing a different class. The `MakeDataset` class is implemented to load and preprocess the dataset using PyTorch's DataLoader.
-
-The dataset used for this project can be found [Here](https://www.kaggle.com/competitions/arabic-letters-classification/data).
 
 ## Data Preprocessing
 
