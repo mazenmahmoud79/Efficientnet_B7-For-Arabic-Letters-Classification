@@ -41,10 +41,6 @@ A confusion matrix is generated using the predictions on the test set, providing
 
 To train the model, run the provided notebook. Make sure to adjust hyperparameters and paths as needed.
 
-```bash
-python train_model.py
-```
-
 ## Dependencies
 
 - PyTorch
